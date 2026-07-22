@@ -9,6 +9,4 @@ mv Bepinfolder/* "$gtagpath"
 rm -rf BepInEx_win_x64_5.4.23.5.zip
 rm -rf Bepinfolder
 
-echo "Do you want any mods"
-read choicemods
 
